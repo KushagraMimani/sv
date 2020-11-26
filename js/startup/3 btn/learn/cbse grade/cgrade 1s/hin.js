@@ -1,0 +1,9 @@
+class Hin{
+    constructor(){
+
+    }
+
+    display(){
+        
+    }
+}

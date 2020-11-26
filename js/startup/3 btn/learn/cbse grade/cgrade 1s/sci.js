@@ -1,0 +1,9 @@
+class Sci{
+    constructor(){
+
+    }
+
+    display(){
+        
+    }
+}

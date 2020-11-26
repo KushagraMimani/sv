@@ -1,0 +1,9 @@
+class Sst{
+    constructor(){
+
+    }
+
+    display(){
+        
+    }
+}
